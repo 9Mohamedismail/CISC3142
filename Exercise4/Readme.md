@@ -1,4 +1,4 @@
-** Exercise 4 **
+**Exercise 4**
 
 *As of October 1, 2020 In order to run the lab tests use:*
 
