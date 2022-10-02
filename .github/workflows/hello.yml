@@ -1,4 +1,4 @@
-name: Hellow World
+name: Hello World
 on: [push]
 jobs:
   HelloWorld:
