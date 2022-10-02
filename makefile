@@ -1,4 +1,4 @@
-lab2:
+lab4:
 	
 	@echo "\nRunning program Ex3.17"
 	@cd Exercise4 && g++ 3_17.cpp -o 3_17 && ./3_17
