@@ -1,0 +1,8 @@
+Using the simple average across all months in the data (9 months).
+We can predict that the weather for October would be: 64.7778
+
+Using July(85), August(81), and September(76) for the moving average formula.
+We can predict that the weather for October would be: 80.6667
+
+Using July(85), August(81), and September(76) for the weighted moving average formula.
+We can predict that the weather for October would be: 79.1667
