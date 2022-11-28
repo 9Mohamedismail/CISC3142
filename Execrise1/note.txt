@@ -1,0 +1,21 @@
+Terminal App 
+	- macOS Monterey 12.5.1 Version
+	- Installation Path: /System/Applications/Utilities
+	
+Git Version Control
+	- Git Version 2.37.3
+	- Installation Path: /opt/homebrew/bin/git
+	  /usr/bin/git
+	
+GNU G++ 
+	- GNU G++ Version (Homebrew GCC 12.2.0) 12.2.0
+	- Installation Path: /opt/homebrew/bin/g++
+	 /usr/bin/g++
+	
+GNU Make 
+	- GNU Make Version 3.81
+	- Installation Path: /usr/bin/make
+	
+Text editor (CotEditor)
+	- Version 4.3.4
+	- Installation Path: /Applications
