@@ -1,0 +1,13 @@
+
+(ACCUMULATE) The total sum length of all movies is: 2129
+
+(SORT) Movies in descending order by popularity: 
+Gonzo Presents Muppet Weird Stuff (88), Final Notice (88), Happy Birthday to Me (88), Duet for One (82), Fanny and Alexander (81), Zandalee (80), Dead Zone, The (79), Predator 2 (79), High Heels (68), Tucker: The Man & His Dream (68), Octopussy (68), Tie Me Up! Tie Me Down! (68), Tartuffe (67), Man Who Loved Women, The (67), Through a Glass Darkly (64), Donovan's Reef (62), Seventh Seal, The (62), Ten (60), Sound of Music, The (59), Miles from Home (53), Barbarian & the Geisha, The (52), Lindbergh Kidnapping Case, The (51), A Man & a Woman: Twenty Years Later (49), A Man & a Woman (46), Wild Strawberries (42), Official Story, The (39), Naked Night, The (38), Germicide (36), Torn Curtain (35), Camille Claudel (32), Running Man, The (31), American Angels: Baptism of Blood, The (28), Colors (23), Devil's Eye, The (20), Quintet (19), Cries & Whispers (18), Tragedy of a Ridiculous Man (17), Scrooged (15), Dreams (14), Days of Heaven (14), Target Eagle (14), Casino Royale (11), Elephant Walk (11), Raiders of the Lost Ark (8), Hawaii (8), Dr. No (7), Subway (6), Cuba (6), Un Hombre y una Mujer (6), Blackmail (2), 
+
+(FIND) Element 'Days of Heaven' found at position : 39 (counting from zero) 
+
+(UNIQUE) The unique years for ACTION movies are: 1991, 1983, 1958, 1984, 1981, 1962, 1979, 
+
+(UNIQUE) The unique years for COMEDY movies are: 1985, 1991, 1990, 1984, 1983, 1963, 1979, 1988, 1967, 
+
+(EQUAL) Are both unique lists equal to each other: false
